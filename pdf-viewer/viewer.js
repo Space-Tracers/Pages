@@ -786,7 +786,7 @@
 				}
 			}; {
 				defaultOptions.defaultUrl = {
-					value: false, * pdf here !
+					value: "https://space-tracers.github.io/pages/pdf-viewer/blank.pdf",
 					kind: OptionKind.VIEWER
 				};
 				defaultOptions.disablePreferences = {
